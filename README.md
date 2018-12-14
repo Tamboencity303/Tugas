@@ -1,7 +1,7 @@
 # Aplikasi_Akademik
 Aplikasi android studio akademik CRUD Mysql
 
-Gunakan VCS Android Studio untuk menginpor codingan ini <br>
+Gunakan VCS Android Studio untuk menginpor codingan ini
 jangan lupa download file PHP dan Databasenya (SQL)
 
 Fitur Fitur
